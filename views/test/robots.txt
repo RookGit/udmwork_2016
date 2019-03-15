@@ -1,0 +1,6 @@
+User-agent: Yandex
+Allow: /
+Disallow: /authentication_warning/
+Disallow: /my_cabinet/
+Disallow: /404
+Host: https://www.udmwork.ru

@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: 
+Crawl-delay: 10
+Disallow: /404
+Disallow: /authentication_warning
+Disallow: /my_cabinet
+Sitemap: https://udmwork.ru/components/sitemap.xml
